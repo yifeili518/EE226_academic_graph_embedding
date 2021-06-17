@@ -60,6 +60,6 @@ pip install stellargraph[demos]
 
 ## Contributors
 
-- Yifei [ liyifei919518@sjtu.edu.cn](mailto:liyifei919518@sjtu.edu.cn)
+- Yifei Li [liyifei919518@sjtu.edu.cn](mailto:liyifei919518@sjtu.edu.cn)
 - Haoning Wu [whn15698781666@sjtu.edu.cn](mailto:whn15698781666@sjtu.edu.cn)
 - Longrun Zhi [zlongrun@sjtu.edu.cn](mailto:zlongrun@sjtu.edu.cn)
