@@ -39,7 +39,7 @@ pip install stellargraph[demos]
 
 - deepwalk.py, node2vec.py, sdne.py 实现了同构图DeepWalk, node2vec以及SDNE模型对本项目的应用，采用**环境1**，可直接运行
 - metapath2vec.py 实现了异构图metapath2vec模型对本项目的应用，采用**环境2**，可直接运行
-- DL_multilabel.py 实现了基于embedding进行deep learning得到多标签分类，可直接运行
+- DL_multilabel.py 实现了基于embedding进行deep learning得到多标签分类，需要运行metapath2vec.py的到embedding后再运行，且需要注意输出embedding array命名的一致性
 
 ## Other codes introduction
 
