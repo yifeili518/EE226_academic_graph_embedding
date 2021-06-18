@@ -4,7 +4,7 @@
 
 ## Reference
 
-- 对于同构图嵌入模型，借鉴了 https://github.com/shenweichen/GraphEmbedding，修改后得到对本项目的应用，主要实现了DeepWalk, node2vec, SDNE 等模型
+- 对于同构图嵌入模型，借鉴了 https://github.com/shenweichen/GraphEmbedding ，修改后得到对本项目的应用，主要实现了DeepWalk, node2vec, SDNE 等模型
 - 对于异构图嵌入模型，借鉴了 https://github.com/stellargraph/stellargraph/blob/develop/demos/embeddings/metapath2vec-embeddings.ipynb ，修改后实现了metapath2vec模型对本项目的应用。
 
 *注：本项目中的数据处理，其余方法技巧，以及downstream的节点分类和链路预测模型和算法都是独立实现的*
