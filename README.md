@@ -44,9 +44,9 @@ pip install stellargraph[demos]
 ## Other codes introduction
 
 - *data_preprocessing*文件夹中包含了我们对于数据的预处理
-- classification1/2.py 实现了基于scikit-learn的传统多标签分类器
+- classification1/2.py 实现了基于scikit-learn的传统多标签分类器(1 for homogeneous, 2 for heterogeneous)
 - graph.py 用于构建异构图网络 联合metapath2vec.py使用
-- link_pred.py 实现了链路预测
+- link_pred1/2.py 实现了链路预测(1 for homogeneous, 2 for heterogeneous)
 - node_class.py 基于author embedding多标签分类 其中调用了classification2.py
 - paper_class.py 基于paper embedding分类 再映射到author多标签上 其中调用了classification2.py
 - visualization.py 对于我们得到的embedding进行可视化
